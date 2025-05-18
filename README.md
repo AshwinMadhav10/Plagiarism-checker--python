@@ -2,6 +2,9 @@
 
 This Python script performs plagiarism detection on a set of text documents using the Term Frequency-Inverse Document Frequency (TF-IDF) approach. It calculates the cosine similarity between pairs of documents to identify potential cases of plagiarism.
 
+![Screenshot 2025-05-18 154847](https://github.com/user-attachments/assets/b1014fc0-a7cd-4f13-b943-4b6afb4590c1)
+
+
 ## Usage
 
 1. Place the text documents (`.txt` files) in the same directory as the script.
